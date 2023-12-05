@@ -7,7 +7,7 @@ Projeto feito durante a aula na plataforma Alura, criado utilizando HTML e CSS.
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Plus**
 | :label: Tecnologias | html, css
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://alura-plus-livid-mu.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](assets/print.png)
